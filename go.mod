@@ -1,3 +1,3 @@
-module gitlab.com/woodwo/calculus_lib
+module github.com/woodwo/calculus_lib
 
 go 1.19
