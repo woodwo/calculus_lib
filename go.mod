@@ -1,3 +1,3 @@
-module gitlab.com/tabby.ai/testing/tools/calculus_lib
+module gitlab.com/woodwo/calculus_lib
 
 go 1.19
